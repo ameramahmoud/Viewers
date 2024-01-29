@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "version": "3.8.0-beta.52",
+=======
+  "version": "3.7.0",
+>>>>>>> df32a05a4d64878c3aaccb54c4b19665ffa58788
   "packages": ["extensions/*", "platform/*", "modes/*"],
   "npmClient": "yarn"
 }
